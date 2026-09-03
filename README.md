@@ -1,5 +1,7 @@
 # hanwoo_heat_stress_raw
 
+[![DOI](https://zenodo.org/badge/1251056677.svg)](https://doi.org/10.5281/zenodo.22283542)
+
 한우 거세우 열스트레스 분석 원시 데이터 / Raw data for heat stress analysis in Hanwoo steers
 
 ---
